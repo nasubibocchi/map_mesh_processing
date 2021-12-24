@@ -4,9 +4,9 @@ import 'dart:convert';
 
 void main() {
   final path =
-      '/Users/hitomi/Desktop/ビアコレ/mapmesh/original/iwate.csv';
+      '';
   final outputPath =
-      '/Users/hitomi/Desktop/ビアコレ/mapmesh/output/iwate.dart';
+      '';
 
   final List<String> nijiCode = openFile(path: path);
 
